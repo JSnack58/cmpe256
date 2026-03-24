@@ -1,0 +1,28 @@
+# Core data science
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+# Deep learning
+torch
+torchvision
+
+# Recommender systems
+surprise
+implicit
+lightfm
+
+# Graph
+networkx
+torch-geometric
+
+# Notebooks
+jupyter
+ipykernel
+
+# Utilities
+tqdm
+python-dotenv
